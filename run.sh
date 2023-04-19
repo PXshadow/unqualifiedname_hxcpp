@@ -1,0 +1,1 @@
+haxelib run go2hx --rebuild --cpp bin --out . ./main.go --hxml build.hxml --nodeps
